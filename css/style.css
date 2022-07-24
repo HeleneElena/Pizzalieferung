@@ -110,15 +110,6 @@ button {
     background-position: 20px 13px;
 }
 
-.button-primary .button-auth-svg {
-    width: 24px;
-    height: 24px;
-    background-color: #fff;
-    -webkit-mask: url("../img/icon/user.svg") no-repeat 50% 50%;
-    mask: url("../img/icon/user.svg") no-repeat 50% 50%;
-    background-repeat: no-repeat;
-}
-
 .button-primary:hover .button-auth-svg {
     background-color: #595959;
 }
